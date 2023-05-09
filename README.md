@@ -26,7 +26,7 @@ This code was written by William Weaver, using the assistance of class materials
 
 ## Video Tutorial
 Click the link below to view a soundless tutorial demonstrating the apps functionality. 
-https://drive.google.com/file/d/1n7CN2Ora7IG3U1E4Hs79hOYKo_2M1pK3/view
+https://drive.google.com/file/d/1U-BqJ6QoTMYbAPUgRK8jP9-n2DDPnTXX/view
 
 ## Screenshot
 ![svg_logo_maker](https://user-images.githubusercontent.com/120620818/234748949-d1462b32-6b42-4900-85f9-b35c1b5ae2bf.png)
